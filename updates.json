@@ -3,9 +3,9 @@
                    "post-studio-helper@local":  {
                                                     "updates":  [
                                                                     {
-                                                                        "update_hash":  "sha256:b45febc20fd099426783ffe8eddb9e5cecfd4fff3572ced6612ccc801de641c6",
-                                                                        "version":  "0.1.24",
-                                                                        "update_link":  "https://github.com/demilio5/post-studio-helper-updates/releases/download/v0.1.24/post-studio-helper-0.1.24.xpi"
+                                                                        "update_hash":  "sha256:e0813c7fa0c1e9bf0d6a740df5f2128b174e7365aa707e112ea94f7db48f1a8b",
+                                                                        "version":  "0.1.25",
+                                                                        "update_link":  "https://github.com/demilio5/post-studio-helper-updates/releases/download/v0.1.25/post-studio-helper-0.1.25.xpi"
                                                                     }
                                                                 ]
                                                 }
